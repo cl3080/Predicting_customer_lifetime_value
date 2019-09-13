@@ -2,4 +2,4 @@
 
 This is a data exercise on using BG/NBG model to predict customer lifetime value.
 
-**Jupyter notebook:** /htmlpreview.github.io/?https://github.com/cl3080/Predicting_customer_lifetime_value
+**Jupyter notebook:** http://htmlpreview.github.io/?https://github.com/cl3080/Predicting_customer_lifetime_value
