@@ -1,1 +1,1 @@
-# Predicting_customer_lifetime_value
+# Predicting customer lifetime value
